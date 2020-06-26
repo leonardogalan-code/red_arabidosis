@@ -9,7 +9,9 @@ Pasos para obtener la red de Arabidopsis thaliana
 3.- Una vez que hayas puesto tu gen de interes, se va a generar la imagen de la red y justo en el lado derecho de la página va aparecer un menú, en el cual podremos observar su interacción fisica, predicted, su coexpresión, sus dominios de proteínas compartidos, sus interacciones geneticas y su co-localización del gen que utilizamos.
 
 4.- Para descargar la imagen de la red se debe dar clic en el icono con forma de disquete, después se va a desplegar un menú donde tiene que dar clic en "Imagen de la red como se muestra" o en cualquier opción que necesite
-Los genes seleccionados: DREB2D , RAP2-13 Y AGL67.
+
+Los genes seleccionados son : DREB2D , RAP2-13 Y AGL67.
+
 Con la red ottenida, encontramos que los genes se conectan con las interraciones identificadas. Todos los genes tienen interaccion, algunas son mas debiles pero hay iteraccion.
 Los genes que agregamos en Genemania se representan de color negro y los enlaces con los colores: Naranja,azul, morado y verde estos son las interacciones entre los genes,
 se encontraron interaccion entre una variedad de genes como son:CIP1, ELF3,HYS,CIPS,CRY1,PHYC,HFR1,SPA1 entre otros .
