@@ -4,7 +4,7 @@ Pasos para obtener la red de Arabidopsis thaliana
 
 1.- Para obtener la siguiente red primero debes entrar a la página de Genemania (genemania.org).
 
-2.- Deapués de entrar a la página, en la parte superior izquierza aparece un buscador, en el cual puedes selecciónar el tipo de organismo que necesites y ahí también hay una barra de texto en la cual vas a poner el gen de tu interes.
+2.- Después de entrar a la página, en la parte superior izquierza aparece un buscador, en el cual puedes selecciónar el tipo de organismo que necesites y ahí también hay una barra de texto en la cual vas a poner el gen de tu interes.
 
 3.- Una vez que hayas puesto tu gen de interes, se va a generar la imagen de la red y justo en el lado derecho de la página va aparecer un menú, en el cual podremos observar su interacción fisica, predicted, su coexpresión, sus dominios de proteínas compartidos, sus interacciones geneticas y su co-localización del gen que utilizamos.
 
