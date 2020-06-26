@@ -12,7 +12,7 @@ Pasos para obtener la red de Arabidopsis thaliana
 
 Los genes seleccionados son : DREB2D , RAP2-13 Y AGL67.
 
-Con la red ottenida, encontramos que los genes se conectan con las interraciones identificadas. Todos los genes tienen interaccion, algunas son mas debiles pero hay iteraccion.
+Con la red obtenida, encontramos que los genes se conectan con las interraciones identificadas. Todos los genes tienen interaccion, algunas son mas debiles pero hay iteraccion.
 Los genes que agregamos en Genemania se representan de color negro y los enlaces con los colores: Naranja,azul, morado y verde estos son las interacciones entre los genes,
 se encontraron interaccion entre una variedad de genes como son:CIP1, ELF3,HYS,CIPS,CRY1,PHYC,HFR1,SPA1 entre otros .
 encontramos que las interacciones mas fuertes son las interacciones fisicas , lo podemos observar en la imagen , estos son los enlaces de color rosa y hay menor cantidad de interacciones en cuanto  a interacciones geneticas, estos son los enlaces de color verde.
