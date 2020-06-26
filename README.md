@@ -15,8 +15,8 @@ Los genes seleccionados son : DREB2D , RAP2-13 Y AGL67.
 Con la red obtenida, encontramos que los genes se conectan con las interraciones identificadas. Todos los genes tienen interaccion, algunas son mas debiles pero hay iteraccion.
 Los genes que agregamos en Genemania se representan de color negro y los enlaces con los colores: Naranja,azul, morado y verde estos son las interacciones entre los genes,
 se encontraron interaccion entre una variedad de genes como son:CIP1, ELF3,HYS,CIPS,CRY1,PHYC,HFR1,SPA1 entre otros .
-encontramos que las interacciones mas fuertes son las interacciones fisicas , lo podemos observar en la imagen , estos son los enlaces de color rosa y hay menor cantidad de interacciones en cuanto  a interacciones geneticas, estos son los enlaces de color verde.
-en la ultim imagen encontramos las funciones marcadas con diferentes colores: amarillo( respuestas a la luz roja o naranja) morado (respuesta celular a la radiacion), verde(respuesta celular al estimulo de la luz), rosa(respuesta celular a la luz roja lejana) y azul(respuesta celular al estimulo abiotico),  verde claro(fomorfogenesis).
+Obtenemos que las interacciones mas fuertes son las interacciones fisicas , lo podemos observar en la imagen , estos son los enlaces de color rosa y hay menor cantidad de interacciones en cuanto  a interacciones geneticas, estos son los enlaces de color verde.
+en la ultima imagen encontramos las funciones marcadas con diferentes colores: amarillo( respuestas a la luz roja o naranja) morado (respuesta celular a la radiacion), verde(respuesta celular al estimulo de la luz), rosa(respuesta celular a la luz roja lejana) ,azul(respuesta celular al estimulo abiotico) y verde claro(fomorfogenesis).
 
 ![genemania-network (7)](https://user-images.githubusercontent.com/67028145/85821298-f33d7280-b73d-11ea-80f4-7b745e157927.jpg)
 ![genemania-network (6)](https://user-images.githubusercontent.com/67028145/85821301-f59fcc80-b73d-11ea-8050-23a21e404088.jpg)
